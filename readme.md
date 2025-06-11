@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Registration Form Overview
+# 1. Registration Form Overview
 
 This registration form is a assignment given by ostad. It is crafted with mobile-friendly layout and features an eye-catching color palette and used tailwind css cdn to style it perfectly.
 
@@ -16,7 +16,7 @@ This registration form is a assignment given by ostad. It is crafted with mobile
 - **Confirm Password**: A password input to verify the entered password.
   Gender: Radio buttons for selecting gender options (Male, Female, Other).
 
-# Task Manager JS and Bootstrap
+# 2. Task Manager JS and Bootstrap
 
 Simple task manager app which stores data to localstorage as json format and when page loads it always makes sure to use the value from the localstorage
 
